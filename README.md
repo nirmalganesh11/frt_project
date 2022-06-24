@@ -31,4 +31,4 @@ Azure Bot Service, QnA Maker, Static Web Apps
 Other Azure Technologies :
 App Service
 
-<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/sasikiran20/frtproject/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
+<a href="https://futurereadytalent.in/"><p align= "center"><img src="https://github.com/nirmalganesh11/frt_project/blob/main/images/FRT.jpeg" width="700" height= "350"></p></a>  
